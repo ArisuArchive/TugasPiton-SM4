@@ -50,3 +50,6 @@ def main():
 
 
 main = main()
+
+# ARI SATRIO MURDOKO ANDJALMO
+# 41822010025
