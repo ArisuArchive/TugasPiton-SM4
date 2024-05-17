@@ -24,7 +24,7 @@ for x in check:
     output_decode = output_decode.replace(x, ' ', 1)
 
 # Ari Satrio Murdoko Andjalmo
-# 41822010004
+# 41822010025
 
 print("Output file : output.txt")
 print("Hasil:", output_decode)
