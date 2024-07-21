@@ -1,6 +1,6 @@
-import logging
+simport logging
 
-logging.basicConfig(filename='perpustakaan.log', level=logging.INFO,
+logging.basicConfig(filename='perpus.log', level=logging.INFO,
                     format='%(asctime)s:%(levelname)s:%(message)s')
 
 def log_info(message):
